@@ -1,0 +1,4 @@
+
+te.c:12:2: error: expected declaration or statement at end of input
+   12 |  return (1);
+      |  ^~~~~~
